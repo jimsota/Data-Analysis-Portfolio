@@ -1,8 +1,8 @@
 # Data-Analysis-Portfolio
 
-#👋Hi, I’m Njoku Ifeanyichukwu Julius
+# 👋Hi, I’m Njoku Ifeanyichukwu Julius
 
-##📌About Me🧑
+## 📌About Me🧑
 I am a Monitoring, Evaluation & Data Analytics Professional with a Public Health background, using data to strengthen decision-making, improve program performance, and support evidence-based healthcare and development interventions.
 
 I specialize in working with health and social development data, ensuring data quality, analyzing trends, and translating complex datasets into clear insights that inform planning, implementation, and policy. My experience spans routine health data, survey data, and program performance metrics across facility, LGA, and community levels.
