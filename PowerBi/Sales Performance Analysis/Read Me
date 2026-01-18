@@ -1,0 +1,107 @@
+# 📊 Sales Performance Analysis Dashboard (Power BI)
+
+## 📌 Project Overview
+This project presents a **Sales Performance Analysis Dashboard** built using **Power BI**.  
+The goal of the project is to analyze sales data to understand **customer performance, product demand, sales trends, and profitability**.
+
+The dashboard provides actionable insights that can help business stakeholders make data-driven decisions.
+
+---
+
+## 🗂️ Dataset Description
+- **Data Type:** Sales transaction data
+- **Key Fields Include:**
+  - Customer Name
+  - Product Name
+  - Units Sold
+  - Sales Count
+  - Profit
+  - Date / Day of Week
+
+The dataset was cleaned and transformed using **Power Query** before analysis.
+
+---
+
+## 🛠️ Tools & Technologies
+- **Power BI Desktop**
+- **Power Query** (Data Cleaning & Transformation)
+- **DAX** (Measures & Calculations)
+- **Microsoft Excel**
+- **GitHub**
+
+---
+
+## 🔍 Key Business Questions Answered
+- Which **customers generate the highest sales and profit**?
+- What are the **top-selling products**?
+- How do **units sold vary by day**?
+- Which **days of the week record the highest sales**?
+- What is the **overall business profit performance**?
+
+---
+
+## 📈 Dashboard Insights
+### 🔹 Customer Analysis
+- Sales count and profit are broken down by customer
+- Helps identify **high-value customers**
+
+### 🔹 Product Performance
+- Analysis of total units sold per product
+- Identifies **best-selling and low-performing products**
+
+### 🔹 Sales Trend Analysis
+- Daily sales trends visualized using bar charts
+- Weekly sales distribution highlights peak sales days
+
+### 🔹 Profit Analysis
+- Total profit across customers
+- Supports revenue optimization decisions
+
+---
+
+## 📁 Project Structure
+Sales-Performance-Analysis/
+├── data/
+│ └── sales_data.csv
+├── dashboard.png
+├── sales_analysis.pbix
+└── README.md
+
+yaml
+Copy code
+
+---
+
+## 🧹 Data Preparation Steps
+- Removed unnecessary columns
+- Standardized product and customer names
+- Created calculated measures for:
+  - Total Sales
+  - Total Units Sold
+  - Total Profit
+- Optimized the data model for performance
+
+---
+
+## 🚀 How to Use This Project
+1. Download the `.pbix` file
+2. Open with **Power BI Desktop**
+3. Explore interactive visuals
+4. Filter by customer, product, or date to gain insights
+
+---
+
+## 📸 Dashboard Preview
+*(See dashboard image in this repository)*
+
+---
+
+## 👤 Author
+**Njoku Ifeanyichukwu Julius**  
+Aspiring Data Analyst  
+Skills: Power BI | Excel | SQL | Data Visualization
+
+---
+
+## ⭐ Acknowledgement
+This project was created for learning and portfolio development purposes using a sample sales dataset.
