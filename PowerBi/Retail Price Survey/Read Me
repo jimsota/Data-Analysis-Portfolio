@@ -1,0 +1,81 @@
+📊 Project Overview
+The Retail Price Comparison Dashboard is a data visualization project designed to compare product prices across major retail stores — Walmart, Target, and Costco.
+The dashboard helps users identify:
+
+Which store has the lowest total cost
+
+The best store to buy each product
+
+Overall price trends across retailers
+
+This project demonstrates data analysis, aggregation, and visualization skills using an interactive dashboard.
+
+🎯 Objectives
+Compare prices of common household products across multiple stores
+
+Identify the most cost-effective store overall
+
+Highlight the best store for individual products
+
+Present insights in a clear, visual, and easy-to-understand format
+
+🛒 Stores Analyzed
+Walmart
+
+Target
+
+Costco
+
+📦 Products Included
+Rice
+
+Dried Beans
+
+Bottled Water
+
+(Additional products can be added easily)
+
+📈 Dashboard Features
+Total Price by Store:
+Displays the sum of product prices for each store to show overall affordability.
+
+Best Store for Each Product:
+Compares prices per product across stores to identify the cheapest option.
+
+Color-coded visualizations for easy comparison and interpretation.
+
+🧠 Key Insights
+Walmart has the highest total price, while Costco shows a lower overall cost.
+
+The best store varies by product, meaning shoppers can save more by buying strategically rather than sticking to one store.
+
+Visual comparison makes price differences immediately clear for decision-making.
+
+🛠 Tools & Technologies
+Power BI (Data Visualization)
+
+Data aggregation and basic analytics
+
+Retail pricing dataset (sample data)
+
+👤 Target Users
+Budget-conscious shoppers
+
+Data analytics learners
+
+Retail analysts
+
+Students and professionals building dashboard portfolios
+
+🚀 Future Improvements
+Add more stores and products
+
+Include time-based price trends
+
+Add filters for category and store selection
+
+Integrate real-time pricing data
+
+📌 Conclusion
+This project shows how data visualization can be used to support smarter purchasing decisions by clearly comparing prices across retailers. It also serves as a practical example of retail analytics and dashboard design.
+
