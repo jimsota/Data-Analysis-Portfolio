@@ -1,0 +1,73 @@
+🔗 Cryptocurrency API Usage & Data Analysis Project
+📌 Project Overview
+
+This project demonstrates how to consume a REST API, collect live data, and perform data analysis and visualization using Python. The notebook fetches cryptocurrency market data from the CoinMarketCap API, processes the JSON response into a structured format, and analyzes price and percentage changes over time.
+
+The project highlights practical skills in API integration, data cleaning, aggregation, and visualization.
+
+🛠️ Tools & Technologies
+
+Python 3
+
+Requests (API consumption)
+
+Pandas (data manipulation)
+
+Matplotlib & Seaborn (data visualization)
+
+Jupyter Notebook
+
+🌐 API Used
+
+CoinMarketCap API (Sandbox Environment)
+Endpoint used:
+
+/v1/cryptocurrency/listings/latest
+
+🔍 Key Features & Operations
+
+Connecting to an external REST API using requests
+
+Handling API errors (timeouts, connection errors, redirects)
+
+Normalizing nested JSON data into Pandas DataFrames
+
+Appending timestamps to track data over time
+
+Saving and reloading API data using CSV files
+
+Grouping and reshaping data for analysis
+
+Cleaning and transforming percentage change fields
+
+Visualizing:
+
+Cryptocurrency price trends over time
+
+Percentage change comparisons across assets
+
+📊 Sample Analyses
+
+Hourly and daily percentage price changes of cryptocurrencies
+
+Comparative analysis of selected crypto assets
+
+Time-series visualization of Bitcoin price movements
+
+📁 Output
+
+Structured cryptocurrency market data
+
+CSV file containing collected API data
+
+Visual insights into price movements and market changes
+
+🎯 Learning Outcomes
+
+Practical experience consuming and managing APIs
+
+Working with real-time and time-series data
+
+Advanced Pandas data transformations
+
+Clear, informative data visualizations
