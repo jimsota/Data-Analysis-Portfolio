@@ -1,0 +1,70 @@
+📊 Data Aggregation Project with Pandas
+📌 Project Overview
+This project demonstrates how to perform data aggregation and exploratory analysis 
+using Python and Pandas. The notebook focuses on grouping, summarizing, 
+and analyzing structured data to extract meaningful insights from a dataset.
+
+The project uses common aggregation techniques such as groupby, mean, sum, count, 
+and descriptive statistics, making it suitable for beginners and intermediate learners in data analysis.
+
+🛠️ Tools & Technologies
+Python 3
+
+Pandas
+
+Jupyter Notebook
+
+📂 Dataset
+The project works with a CSV dataset (Flavors.csv) containing variables such as:
+
+Base Flavor
+
+Flavor Rating
+
+Texture Rating
+
+Liked (Yes/No)
+
+⚠️ Note: The dataset path in the notebook is local. Update the file path when running the project on another system.
+
+🔍 Key Operations Performed
+Loading CSV data using Pandas
+
+Grouping data by one and multiple columns
+
+Calculating:
+
+Mean
+
+Sum
+
+Count
+
+Maximum values
+
+Applying .agg() for multiple aggregations
+
+Using .describe() for detailed statistical summaries
+
+Display customization for better readability
+
+📈 Sample Analysis Tasks
+Average flavor and texture ratings by base flavor
+
+Comparison of ratings based on customer preference (Liked vs Not Liked)
+
+Summary statistics for grouped data
+
+
+🎯 Learning Outcomes
+Practical use of Pandas groupby and aggregation functions
+
+Improved understanding of data summarization
+
+Hands-on experience with exploratory data analysis (EDA)
+
+📌 Author
+Jim
+Data & Public Health Analyst
+Email: jimsota30@gmail.com
+Phone: +2347039274176
