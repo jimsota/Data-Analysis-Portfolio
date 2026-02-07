@@ -1,0 +1,83 @@
+🧹 Data Cleaning & Preprocessing with Pandas
+📌 Project Overview
+
+This project focuses on cleaning and preprocessing raw customer data using Python and Pandas. The notebook demonstrates how to transform messy, inconsistent data into a clean, structured, and analysis-ready dataset.
+
+The project covers common real-world data issues such as duplicates, inconsistent formatting, missing values, and invalid records.
+
+🛠️ Tools & Technologies
+
+Python 3
+
+Pandas
+
+Jupyter Notebook
+
+📂 Dataset
+
+The dataset is sourced from an Excel file containing customer call records, including:
+
+Names
+
+Phone numbers
+
+Address information
+
+Do-Not-Contact flags
+
+⚠️ File paths in the notebook are local. Update the path when running the project on another system.
+
+🔍 Data Cleaning Steps Performed
+
+Removing duplicate records
+
+Dropping irrelevant columns
+
+Cleaning string values (removing unwanted characters from names)
+
+Standardizing phone number formats
+
+Splitting address fields into:
+
+Street Address
+
+State
+
+Zip Code
+
+Handling missing and invalid values
+
+Standardizing categorical values (e.g., Yes/No → Y/N)
+
+Removing records marked as Do Not Contact
+
+Removing rows with missing phone numbers
+
+Resetting and reindexing the cleaned dataset
+
+📈 Result
+
+The final output is a clean customer contact dataset that:
+
+Contains no duplicate or invalid entries
+
+Has standardized formats across all columns
+
+Is suitable for downstream analysis or CRM use
+
+🎯 Learning Outcomes
+
+Practical data cleaning techniques using Pandas
+
+Handling real-world messy datasets
+
+Preparing data for analysis or reporting
+
+Understanding common preprocessing workflows
+
+📌 Author
+
+Jim
+Data & Public Health Analyst
+Email: jimsota30@gmail.com
+Phone: +2347039274176
