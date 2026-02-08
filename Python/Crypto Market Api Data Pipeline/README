@@ -1,0 +1,57 @@
+🔗 Cryptocurrency Market Intelligence Data Pipeline
+Analytical Context
+
+Financial and market intelligence systems rely on accurate, 
+time-stamped data collected at scale. Cryptocurrency markets, in particular,
+require structured pipelines that can ingest rapidly changing data 
+while respecting API constraints and data integrity requirements.
+
+*Problem Statement*
+
+Manual or poorly structured API calls lead to:
+
+Inconsistent datasets
+
+Missing timestamps
+
+Rate-limit violations
+
+Poor reproducibility
+
+These issues reduce analytical reliability and decision confidence.
+
+Solution Overview
+
+This project implements a secure, reproducible data collection pipeline using the CoinMarketCap API. The pipeline normalizes raw market data into structured tables and appends timestamps to enable time-series analysis and downstream reporting.
+
+Methodology
+
+Secure API authentication using environment variables
+
+Exception handling for network and API errors
+
+JSON normalization into relational format
+
+Timestamped data collection
+
+Rate-aware request execution
+
+Outputs
+
+Clean, structured cryptocurrency market dataset
+
+Time-series-ready records
+
+Foundation for dashboards, alerts, or forecasting
+
+Why This Matters
+
+This project demonstrates the ability to:
+
+Design analytical data pipelines
+
+Work with real-world APIs responsibly
+
+Prepare market data for decision-making use cases
+
+That tone = professional analyst, not student.
