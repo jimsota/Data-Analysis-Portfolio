@@ -1,0 +1,89 @@
+📊 Data Visualization with Pandas
+📌 Project Overview
+
+This project demonstrates how to perform exploratory data analysis (EDA) and create insightful visualizations using Pandas’ built-in plotting capabilities. The focus is on transforming raw data into meaningful visual insights that support data-driven decision-making.
+
+The project showcases practical skills in data cleaning, aggregation, and visualization, emphasizing clarity, accuracy, and reproducibility rather than flashy graphics.
+🎯 Objectives
+
+Explore and understand structured datasets using Pandas
+
+Perform basic data cleaning and preparation
+
+Generate clear visual summaries to identify trends and patterns
+
+Demonstrate Pandas’ visualization capabilities for analytical workflows
+
+🛠️ Tools & Technologies
+
+Python
+
+Pandas
+
+Matplotlib (via Pandas plotting backend)
+
+Jupyter Notebook
+
+🔍 Key Features
+
+Loading and inspecting datasets using Pandas
+
+Handling missing or inconsistent data
+
+Aggregating and summarizing data
+
+Creating visualizations such as:
+
+Line charts
+
+Bar charts
+
+Histograms
+
+Distribution plots
+
+Interpreting visual outputs for analytical insights
+
+📈 Visualizations
+
+The notebook includes multiple visual representations to:
+
+Identify trends over time
+
+Compare categories
+
+Understand distributions and variability
+
+Support exploratory analysis before deeper modeling or reporting
+
+All plots are generated directly from Pandas for simplicity and reproducibility.
+
+🧠 Why This Project Matters
+
+This project highlights the ability to:
+
+Perform exploratory data analysis using industry-standard tools
+
+Communicate insights visually and effectively
+
+Build analysis-ready workflows suitable for business, public health, and research contexts
+
+These skills are essential for data analyst, data annotation, and analytics support roles.
+
+🚀 Possible Extensions
+
+Add Seaborn for advanced visual styling
+
+Export visual outputs for reporting
+
+Integrate real-world datasets (health, finance, or population data)
+
+Automate visualization pipelines for recurring reports
+
+👤 Author
+
+Njoku Ifeanyichukwu Julius
+Data Analyst | Data Annotation Specialist
+GitHub: https://github.com/jimsota/Data-Analysis-Portfolio
+E-mail: jimsota30@gmail.com 
+Phone: +2347039274176
