@@ -1,0 +1,101 @@
+📌 Project Overview
+
+This project focuses on cleaning, standardizing, and preparing customer
+contact data for analysis or operational use. 
+Using Python and Pandas, the notebook transforms a
+raw customer call list into a clean, structured,
+and reliable dataset by addressing common data quality 
+issues found in real-world business data.
+
+The project demonstrates essential data preprocessing skills
+required for data analysis, CRM systems,
+and reporting workflows.
+🛠️ Tools & Technologies
+
+Python 3
+
+Pandas
+
+Jupyter Notebook
+
+📂 Dataset
+
+The dataset is an Excel file containing customer contact records, including:
+
+First and last names
+
+Phone numbers
+
+Address information
+
+Do-Not-Contact indicators
+
+Additional administrative columns
+🔍 Data Cleaning & Transformation Steps
+
+The notebook performs the following operations:
+
+Removing duplicate customer records
+
+Dropping irrelevant or unused columns
+
+Cleaning last name fields by removing unwanted characters
+
+Standardizing phone numbers:
+
+Removing non-numeric characters
+
+Formatting phone numbers consistently
+
+Splitting address data into:
+
+Street Address
+
+State
+
+Zip Code
+
+Standardizing categorical values (e.g., No → N)
+Handling missing and invalid values
+
+Removing customers marked as Do Not Contact
+
+Removing records without valid phone numbers
+
+Resetting and reindexing the final dataset
+
+📈 Final Output
+
+The resulting dataset:
+
+Contains only valid, contactable customers
+
+Uses consistent formatting across all columns
+
+Is ready for analysis, reporting, or customer outreach systems
+🎯 Learning Outcomes
+
+Real-world data cleaning techniques
+
+String manipulation and data standardization
+
+Handling missing, invalid, and restricted records
+
+Preparing datasets for business or analytical use
+
+🚀 Possible Improvements
+
+Use relative file paths for portability
+
+Add data validation checks
+
+Export cleaned data automatically to CSV
+
+Wrap cleaning logic into reusable functions
+
+👤 Author
+
+Jim
+Data Analyst | Public Health Professional
+Email: jimsota30@gmail.com 
+Phone: +2347039274176
